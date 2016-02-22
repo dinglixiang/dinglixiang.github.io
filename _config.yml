@@ -1,11 +1,11 @@
 markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
-name: "rusty shutter"
+name: "Lixiang's Blog"
 markdown: rdiscount
 
-author: "wayne"
-atom-baseurl: "http://lhzhang.com"
+author: "dinglixiang"
+atom-baseurl: "http://www.vzhima.com"
 disqus: "gopherwood"
 
 navigations:
@@ -18,9 +18,6 @@ navigations:
   - title: About
     class: fa fa-user
     href: /about.html
-  - title: Gallery
-    class: fa fa-film
-    href: http://foto.lhzhang.com
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
