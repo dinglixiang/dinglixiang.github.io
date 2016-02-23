@@ -1,11 +1,10 @@
 ---
 layout:     post
 title:      "List of Rails status code symbols"
-date:       2016-02-18 12:00:00
 author:     "Lixiang"
 ---
 
-Status | CodeStatus | MessageSymbol
+Status | Code Status | Message Symbol
 --------- | :------- | -----------
 1xx | *Informational*
 100 | Continue | :continue
