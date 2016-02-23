@@ -11,8 +11,7 @@ Status | CodeStatus | MessageSymbol
 100 | Continue | :continue
 101 | Switching Protocols | :switching_protocols
 102 | Processing | :processing
---------- | :------- | -----------
-2xx | Success |
+2xx | *Success*
 200 | OK | :ok
 201 | Created | :created
 202 | Accepted | :accepted
@@ -22,7 +21,7 @@ Status | CodeStatus | MessageSymbol
 206 | Partial Content | :partial_content
 207 | Multi-Status | :multi_status
 226 | IM Used | :im_used
-3xx |  Redirection |
+3xx | *Redirection*
 300 | Multiple Choices | :multiple_choices
 301 | Moved Permanently | :moved_permanently
 302 | Found | :found
@@ -30,7 +29,7 @@ Status | CodeStatus | MessageSymbol
 304 | Not Modified | :not_modified
 305 | Use Proxy | :use_proxy
 307 | Temporary Redirect | :temporary_redirect
-4xx |  Client Error
+4xx | *Client Error*
 400 | Bad Request | :bad_request
 401 | Unauthorized | :unauthorized
 402 | Payment Required | :payment_required
@@ -53,7 +52,7 @@ Status | CodeStatus | MessageSymbol
 423 | Locked | :locked
 424 | Failed Dependency | :failed_dependency
 426 | Upgrade Required | :upgrade_required
-5xx | Server Error
+5xx | *Server Error*
 500 | Internal Server Error | :internal_server_error
 501 | Not Implemented | :not_implemented
 502 | Bad Gateway | :bad_gateway
