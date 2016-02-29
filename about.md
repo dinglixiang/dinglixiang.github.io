@@ -10,7 +10,7 @@ header-img: "img/about-bg.jpg"
  <em style="font-size:16px;" class="text-muted">&hearts; 好好学习，天天向上</em>
 </div>
 
-####基本档案
+#### 基本档案
 - 姓名：丁历祥
 - 年龄：25
 - 学历：大学本科（西南石油大学2014届）
@@ -19,8 +19,8 @@ header-img: "img/about-bg.jpg"
 - github：https://github.com/dinglixiang
 - Tel: `require 'base64'; Base64.decode64('MTUzNzgxODI5NjY=')`
 
-####职业技能
-- 2年左右Web开发经验
+#### 职业技能
+- 2年Web开发经验
 - 熟悉Rails开发，熟悉并能使用常见的gems
 - 熟悉*nux环境开发和部署，使用Capistrano等部署应用
 - 熟悉常用Linux命令，熟练使用Git、Vim等工具
@@ -32,13 +32,12 @@ header-img: "img/about-bg.jpg"
 - 对新技术充满好奇心，学习能力较强，喜爱简洁清晰地代码
 - 搜索只用Google
 
-####工作履历
-- 2015.09 ~ 2016.01 成都瑞小博科技有限公司，担任Ruby开发工程师
-- 2015.06 ~ 2015.08 兼职外包
+#### 工作履历
+- 2015.09 ~ 2016.01 成都瑞小博科技有限公司，Ruby开发工程师
 - 2013.11 ~ 2015.05 在Zenpow公司实习并工作
 - 2010年入学西南石油大学，就读于软件工程专业
 
-####项目作品
+#### 项目作品
 - 2015年10月~ 2016年1月，瑞小博[广告平台](http://e.rippletek.com/)后端API开发
   - 主要难点：
     - 创建广告等相关数据
