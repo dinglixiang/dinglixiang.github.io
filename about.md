@@ -34,6 +34,7 @@ header-img: "img/about-bg.jpg"
 
 #### 工作履历
 - 2015.09 ~ 2016.01 成都瑞小博科技有限公司，Ruby开发工程师
+- 2015.06 ~ 2015.08 兼职外包
 - 2013.11 ~ 2015.05 在Zenpow公司实习并工作
 - 2010年入学西南石油大学，就读于软件工程专业
 
@@ -62,8 +63,8 @@ header-img: "img/about-bg.jpg"
   - 成都飞行学院日常管理系统是一个在线考试系统，主要任务就是维护
   - ICAO模块，是参考日常管理系统单独成立的一个系统，主要为学生提供ICAO英语的学习与考试，难点：
     - WEB录音，通过jQuery Plugin(recorder.js等)完成录音
-- 2015年初，辅助开发Shopify App([BestSellers](https://apps.shopify.com/bestsellers))
-- 2014年08 ~ 09月，使用LocomotiveCMS搭建[BargainAccessories123](http://www.bargainaccessories123.co.uk/)和SWChengdu网站
+- 2015年初，辅助开发Shopify App(BestSellers)
+- 2014年08 ~ 09月，使用LocomotiveCMS搭建BargainAccessories123和SWChengdu网站
   - 主要难点：
     - LocomotiveCMS部署后，使用中会产生过多的log，应注意日志分割
     - 国际化/本地化显示
@@ -71,7 +72,7 @@ header-img: "img/about-bg.jpg"
   - 主要难点：
     - 熟悉StrongLoop，StrongLoop是一个Nodejs的框架，主要用来开发API
     - 整合环信以及业务之间的关系
-- 2014年上半年，使用Spree搭建电商平台[PeakHash](http://peakhash.com/)
+- 2014年上半年，使用Spree搭建电商平台PeakHash
   - 主要描述：
     - 搭建Spree平台，修改部分页面显示
     - 没用多久就关了，所以也没研究很深
