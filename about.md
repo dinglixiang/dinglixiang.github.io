@@ -20,7 +20,7 @@ header-img: "img/about-bg.jpg"
 - Tel: `require 'base64'; Base64.decode64('MTUzNzgxODI5NjY=')`
 
 #### 职业技能
-- 2年Web开发经验
+- 2年Rails开发经验
 - 熟悉Rails开发，熟悉并能使用常见的gems
 - 熟悉*nux环境开发和部署，使用Capistrano等部署应用
 - 熟悉常用Linux命令，熟练使用Git、Vim等工具
