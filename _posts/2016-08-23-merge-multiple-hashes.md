@@ -9,6 +9,7 @@ tags:
 Ruby: merge multiple hashes
 
 Before:
+
 ```ruby
 {a: 1}.merge(b: 2).merge(c: 3).merge(d: 4)
 ```
