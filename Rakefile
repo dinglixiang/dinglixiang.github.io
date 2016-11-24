@@ -51,7 +51,9 @@ def new_post(title)
 ---
 title: #{title}
 layout: post
+date: #{Time.now.strftime("%F %R")}
 guid: urn:uuid:#{uuid}
+author: "Lixiang"
 tags:
   - 
 ---
