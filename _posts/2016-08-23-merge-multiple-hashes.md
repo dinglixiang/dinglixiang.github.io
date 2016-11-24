@@ -3,7 +3,7 @@ title: merge-multiple-hashes
 layout: post
 guid: urn:uuid:cb0d8eca-0e78-41d8-94d4-cb61045760c4
 tags:
-  - ruby
+  - Ruby
 ---
 
 Ruby: merge multiple hashes
