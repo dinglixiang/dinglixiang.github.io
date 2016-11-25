@@ -19,13 +19,13 @@ Environment data not found in the schema. To resolve this issue, run:
 	bin/rails db:environment:set RAILS_ENV=test
 ```
 
-
 #### 原因:
 database_cleaner清除了`ar_internal_metadata`
 
 
 #### 解决方法:
-在database_cleaner的配置中，添加如下选项
+1. 运行`bin/rails db:environment:set RAILS_ENV=test`
+2. 在database_cleaner的配置中，添加如下选项
 
 ```ruby
 DatabaseCleaner.clean_with :truncation, except: %w(ar_internal_metadata)
