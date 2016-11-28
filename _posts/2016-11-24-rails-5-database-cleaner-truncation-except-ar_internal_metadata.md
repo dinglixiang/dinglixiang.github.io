@@ -4,7 +4,7 @@ title:  "Rails 5 database_cleaner - internal metadata table should not be cleane
 date:   2016-11-24
 author: "Lixiang"
 tags:
-  - rspec
+  - Rspec
   - database_cleaner
 ---
 

@@ -3,6 +3,8 @@ layout:     post
 title:      "Mysql Show Grants"
 date:       2014-11-03
 author:     "Lixiang"
+tags:
+  - Mysql
 ---
 
 ####Show mysql grants

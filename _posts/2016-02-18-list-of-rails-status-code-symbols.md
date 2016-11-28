@@ -2,6 +2,8 @@
 layout:     post
 title:      "List of Rails status code symbols"
 author:     "Lixiang"
+tags:
+  - Rails
 ---
 
 Status | Code Status | Message Symbol

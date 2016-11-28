@@ -3,6 +3,8 @@ layout:     post
 title:      "Find files with given string"
 date:       2014-10-23
 author:     "Lixiang"
+tags:
+  - Linux
 ---
 
 ####On Linux

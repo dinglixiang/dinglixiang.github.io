@@ -10,6 +10,7 @@ tags:
 
 ### 背景:
 今天切换分支时，不小心使用了之前用过的一个分支名, 分支多了，命名也纠结.
+
 1. eg: `feature/payment` vs `feature/payments`
 2. 我在本地也删除了`feature/payment`了, `git branch -D feature/payment`
 
@@ -19,6 +20,7 @@ Why? 大写的尴尬
 `git branch -a` 发现本地记录远程分支和远程仓库里的分支情况不一样
 
 ### 总结:
+
 1. 清理分支时，本地分支和远程分支都要清理
 2. 同步分支信息, `$ git remote prune <remote_name>`
 
