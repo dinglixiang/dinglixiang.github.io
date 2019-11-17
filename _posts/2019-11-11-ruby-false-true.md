@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "ruby false and true"
+title:      "Ruby: about false and true"
 date:       2019-11-11
 author:     "Lixiang"
 header-img: "img/post-bg-05.jpg"

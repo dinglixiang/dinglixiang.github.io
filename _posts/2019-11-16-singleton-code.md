@@ -1,11 +1,11 @@
 ---
-title: how-to-implement-singleton-pattern
+title: "Partten: how to implement singleton pattern"
 layout: post
 date: 2019-11-16 22:10
 guid: urn:uuid:2e1dc902-b855-4e61-a192-196f7b7513d8
 author: "Lixiang"
 tags:
-  - Desgin
+  - Partten
 ---
 
 今天回顾了下单例模式的实现。

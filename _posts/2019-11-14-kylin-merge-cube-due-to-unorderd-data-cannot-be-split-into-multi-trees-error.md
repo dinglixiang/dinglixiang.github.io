@@ -1,5 +1,5 @@
 ---
-title: kylin-merge-cube-due-to-unorderd-data-cannot-be-split-into-multi-trees-error
+title: "Kylin: merge cube due to unorderd data cannot be split into multi trees error"
 layout: post
 date: 2019-11-14 14:00
 guid: urn:uuid:659ea161-1678-407c-b2df-32477c061632

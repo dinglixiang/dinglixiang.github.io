@@ -1,5 +1,5 @@
 ---
-title: how-to-restart-service-in-aws-emr
+title: "AWS EMR: how to restart service"
 layout: post
 date: 2019-11-17 22:02
 guid: urn:uuid:25af717b-8a7a-4258-9d3d-7d7a1422af81

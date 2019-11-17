@@ -1,5 +1,5 @@
 ---
-title: postgres-fdw-update-foreign-server-configuration
+title: "postgres_fdw: update foreign server configuration"
 layout: post
 date: 2019-11-13 15:33
 guid: urn:uuid:1f3e4439-442c-4541-bc17-52d2581c8c02

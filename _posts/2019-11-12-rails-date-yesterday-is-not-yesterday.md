@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "rails date's yesterday is not yesterday"
+title:      "Rails: date's yesterday is not yesterday"
 date:       2019-11-12
 author:     "Lixiang"
 header-img: "img/post-bg-05.jpg"

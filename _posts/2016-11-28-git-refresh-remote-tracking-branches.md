@@ -1,5 +1,5 @@
 ---
-title: git-refresh-remote-tracking-branches
+title: "Git: refresh remote tracking branches"
 layout: post
 date: 2016-11-28 14:43
 guid: urn:uuid:b79e9ebe-50ed-43fb-84bb-f527ebc75d51

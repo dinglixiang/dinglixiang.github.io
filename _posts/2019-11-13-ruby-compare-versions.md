@@ -1,5 +1,5 @@
 ---
-title: ruby-compare-versions
+title: "Ruby: compare versions"
 layout: post
 date: 2019-11-13 22:58
 guid: urn:uuid:6e010bf9-32d0-4539-87e8-5d2575ef30b9

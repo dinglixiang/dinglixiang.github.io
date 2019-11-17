@@ -1,5 +1,5 @@
 ---
-title: rails-get-database-configuration
+title: "Rails: get database configuration"
 layout: post
 date: 2019-11-12 15:09
 guid: urn:uuid:f63a932c-8005-434f-bbd4-4b017a1d7001
