@@ -5,6 +5,7 @@ date: 2019-11-15 21:52
 guid: urn:uuid:485078d8-7650-4816-89cb-fb60dc481ea2
 author: "Lixiang"
 tags:
+  - BigData
   - HDFS
 ---
 
