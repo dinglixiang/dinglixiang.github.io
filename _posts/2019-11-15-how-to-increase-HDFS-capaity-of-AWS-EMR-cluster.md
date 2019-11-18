@@ -1,5 +1,5 @@
 ---
-title: AWS EMR中HDFS扩容方法
+title: "AWS EMR: HDFS扩容方法"
 layout: post
 date: 2019-11-15 21:52
 guid: urn:uuid:485078d8-7650-4816-89cb-fb60dc481ea2
