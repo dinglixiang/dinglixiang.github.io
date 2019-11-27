@@ -5,7 +5,7 @@ date: 2019-11-26 10:15
 guid: urn:uuid:e9381df5-dc71-4778-802e-8759df76b901
 author: "Lixiang"
 tags:
-  - 微信xiaochengx
+  - 微信小程序
   - AB测试
 ---
 
