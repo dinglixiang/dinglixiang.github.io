@@ -8,13 +8,13 @@ tags:
   - Rspec
 ---
 
-###Single expectation test
+### Single expectation test
 
 The 'one expectation' tip is more broadly expressed as 'each test should
 make only one assertion'. This helps you on finding possible errors,
 going directly to the failing test, and to make your code readable.
 
-###Test all possible cases
+### Test all possible cases
 
 Testing is a good practice, but if you do not test the edge cases, it
 will not be useful. Test valid, edge and invalid case.
