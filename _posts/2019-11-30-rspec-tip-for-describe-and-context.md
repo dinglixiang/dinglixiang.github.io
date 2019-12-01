@@ -8,7 +8,7 @@ tags:
   - Rspec
 ---
 
-#### How to describe your methods
+### How to describe your methods
 Be clear about what method you are describing.
 
 For instance, use the
@@ -30,7 +30,7 @@ e.g.
     describe '#admin?' do
     ```
 
-#### Use contexts
+### Use contexts
 Contexts are a powerful method to make your tests clear and well
 organized. In the long term this practice will keep test easy to
 read.
@@ -60,7 +60,7 @@ e.g.
     end
     ```
 
-#### Keep your description short
+### Keep your description short
 A spec description should never be longer than 40 characters.If this
 happens you should split it using a context.
 
