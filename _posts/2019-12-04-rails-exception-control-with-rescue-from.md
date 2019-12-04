@@ -6,6 +6,7 @@ guid: urn:uuid:f5112968-f33b-4505-92db-cf2d05ba555e
 author: "Lixiang"
 tags:
   - Rails
+  - Arch
 ---
 
 When we talk about the software architechure, sometimes the `Exception Control` concept will be metioned.

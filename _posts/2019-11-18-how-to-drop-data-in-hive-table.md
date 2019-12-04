@@ -5,6 +5,7 @@ date: 2019-11-18 21:45
 guid: urn:uuid:85bda76c-8c07-42ad-ae4b-95dc6b992cd6
 author: "Lixiang"
 tags:
+  - BigData
   - Hive
 ---
 ### 前言
