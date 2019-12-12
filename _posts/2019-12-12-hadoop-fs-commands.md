@@ -1,5 +1,5 @@
 ---
-title: "hadoop fs 命令"
+title: "Hadoop fs 命令"
 layout: post
 date: 2019-12-12 14:29
 guid: urn:uuid:906e3c75-7970-40dc-8752-4a093f8acbc5
