@@ -9,6 +9,8 @@ tags:
   - Gem
 ---
 
+Recently, we redesign the mini program project. During the iteration, some features should be on the beta version or the beta users. And we control these via rollout.
+
 The `rollout` gem is the fast feature flags based on Redis.
 
 Within rollout, you can set the feature flags on so many dimensions. Like the follows:
