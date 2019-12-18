@@ -1,5 +1,5 @@
 ---
-title: "How to do weekly post mortem"
+title: "How to do the weekly post mortem"
 layout: post
 date: 2019-12-17 22:58
 guid: urn:uuid:1d810f8e-e8c7-44dc-a4ee-56fa6734e4ea
