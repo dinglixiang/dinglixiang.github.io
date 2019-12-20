@@ -105,3 +105,5 @@ FYI:
 
 - [转自：游走HBase的Block Cache](https://zhuanlan.zhihu.com/p/27639937)
 - [HBase Block Cache(块缓存)](https://www.cnblogs.com/zackstang/p/10061379.html)
+
+<img src="/assets/img/hbase.jpg" />
