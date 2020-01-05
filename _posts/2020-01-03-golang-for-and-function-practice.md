@@ -1,5 +1,5 @@
 ---
-title: "Go指南练习: 循环与函数"
+title: "Go指南练习：循环与函数"
 layout: post
 date: 2020-01-03 20:32
 guid: urn:uuid:8c49fd26-1826-4f15-9940-1818c9c0784d
