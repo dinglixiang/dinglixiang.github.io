@@ -9,15 +9,25 @@ tags:
 ---
 
 ```sql
-# single column
+<!-- single column -->
 CREATE INDEX index_name ON table_name (column_name);
 
-# multiple columns
+<!-- multiple columns -->
 CREATE INDEX index_name ON table_name (column1_name, column2_name);
 
 
-# uniq
+<!-- uniq -->
 CREATE UNIQUE INDEX index_name on table_name (column_name);
+```
+
+
+### How to query an delete index
+```sql
+<!-- query index -->
+select * from pg_indexes where tablename='tab1';
+
+<!--  delete index -->
+drop index tab1_bill_code_index  ;
 ```
 
 [Click here](https://www.runoob.com/postgresql/postgresql-index.html) to get more information.
