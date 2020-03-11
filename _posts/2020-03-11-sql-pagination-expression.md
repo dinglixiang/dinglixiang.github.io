@@ -7,6 +7,8 @@ author: "Lixiang"
 tags:
   - SQL
 ---
+最近在聚合客户数据时，需要显示拼接SQL，分页与总页数等也需要单独计算。计算公式如下：
+
 
 ### LIMIT分页公式
 LIMIT分页公式：currentPage是当前页; pageSize是分页大小

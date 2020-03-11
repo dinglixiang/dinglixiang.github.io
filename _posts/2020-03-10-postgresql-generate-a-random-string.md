@@ -8,6 +8,9 @@ tags:
   - PostgreSQL
   - SQL
 ---
+If you want to mock a large amount data, you may need to generate some random strings.
+
+### random_string function
 
 ```sql
 CREATE OR REPLACE FUNCTION random_string(integer) RETURNS text AS $body$
@@ -15,7 +18,7 @@ CREATE OR REPLACE FUNCTION random_string(integer) RETURNS text AS $body$
 $body$ LANGUAGE SQL VOLATILE;
 ```
 
-How to use:
+### How to use
 
 ```sql
 SELECT randome_string(10);

@@ -8,6 +8,8 @@ tags:
   - PostgreSQL
 ---
 
+It's so easy to create, query and delete an index.
+
 ```sql
 <!-- single column -->
 CREATE INDEX index_name ON table_name (column_name);
