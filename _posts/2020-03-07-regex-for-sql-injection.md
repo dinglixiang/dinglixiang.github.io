@@ -21,4 +21,4 @@ tags:
 
 FYI:
 - [Use Regular Expressions to Detect SQL Code Injection](https://larrysteinle.com/2011/02/20/use-regular-expressions-to-detect-sql-code-injection/)
-
+- [Use Regular Expressions to Clean SQL Statements](https://larrysteinle.com/2011/02/09/use-regular-expressions-to-clean-sql-statements/)
